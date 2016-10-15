@@ -1,1 +1,1 @@
-# SOCY215Trainer
+# EBIS112Trainer
